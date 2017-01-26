@@ -1,0 +1,14 @@
+﻿  TopSpin.cpp
+c:\users\sam\desktop\compsci 1037a\final copy cs assignment 2\finalassignment2cdll\finalassignment2cdll\topspin.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\compsci 1037a\final copy cs assignment 2\finalassignment2cdll\finalassignment2cdll\circulardoublylinkedlist.h(116): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sam\desktop\compsci 1037a\final copy cs assignment 2\finalassignment2cdll\finalassignment2cdll\circulardoublylinkedlist.h(114): note: while compiling class template member function 'CircularDoublyLinkedList<int>::~CircularDoublyLinkedList(void)'
+  c:\users\sam\desktop\compsci 1037a\final copy cs assignment 2\finalassignment2cdll\finalassignment2cdll\topspin.cpp(5): note: see reference to function template instantiation 'CircularDoublyLinkedList<int>::~CircularDoublyLinkedList(void)' being compiled
+  c:\users\sam\desktop\compsci 1037a\final copy cs assignment 2\finalassignment2cdll\finalassignment2cdll\topspin.h(34): note: see reference to class template instantiation 'CircularDoublyLinkedList<int>' being compiled
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\sam\desktop\compsci 1037a\final copy cs assignment 2\finalassignment2cdll\finalassignment2cdll\topspin.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\compsci 1037a\final copy cs assignment 2\finalassignment2cdll\finalassignment2cdll\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  FinalAssignment2CDLL.vcxproj -> C:\Users\Sam\Desktop\CompSci 1037a\Final Copy CS Assignment 2\FinalAssignment2CDLL\Debug\FinalAssignment2CDLL.exe
+  FinalAssignment2CDLL.vcxproj -> C:\Users\Sam\Desktop\CompSci 1037a\Final Copy CS Assignment 2\FinalAssignment2CDLL\Debug\FinalAssignment2CDLL.pdb (Full PDB)
